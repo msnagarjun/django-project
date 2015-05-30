@@ -1,2 +1,2 @@
 # django-project
-Test 5
+Test 7
